@@ -4,7 +4,7 @@ let songlist =
     'Barbie World',
     'Vampire',
     'Seven',
-    'Feather'
+    'Feather',
   ];
 
 let index = 0;
